@@ -123,7 +123,7 @@ GestureDetector(
     rebuildFavPage(context); // เรียกใช้ rebuildFavPage เมื่อกลับมาหน้า FavPage
   },
   child: Icon(
-    Icons.exit_to_app,
+    Icons.thumb_down,
     color: Colors.red.shade400,
   ),
 ),
